@@ -1,4 +1,4 @@
-# chrisgebert.net About page
+# [about.chrisgebert.net](http://about.chrisgebert.net) page
 
 Many thanks to [@ajlkn](https://github.com/ajlkn) for the great Highlights template, and to the [HTML5 UP community](https://html5up.net).
 
